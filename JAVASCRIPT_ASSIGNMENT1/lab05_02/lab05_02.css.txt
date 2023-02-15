@@ -38,4 +38,4 @@ button:hover {
   background-color: red;
 }
 
-/* !coded by BIBEK SHRESTHA! */
+/* !coded by SUMAN RANABHAT */
