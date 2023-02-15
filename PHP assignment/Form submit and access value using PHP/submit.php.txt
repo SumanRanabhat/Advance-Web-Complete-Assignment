@@ -82,5 +82,5 @@ $about = $_SESSION["about"];
 
 </html>
 <?php
-// !! CODED BY BIBEK SHRESTHA
+// !! CODED BY SUMAN RANABHAT
 ?>
