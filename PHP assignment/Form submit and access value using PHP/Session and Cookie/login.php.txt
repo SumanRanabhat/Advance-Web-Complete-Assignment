@@ -1,5 +1,5 @@
 <?php
-// !! CODED BY BIBEK SHRESTHA
+// !! CODED BY SUMAN RANABHAT
 ?>
 <?php
 $emlerr = $passerr = $error = "";
