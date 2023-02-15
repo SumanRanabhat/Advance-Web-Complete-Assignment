@@ -18,5 +18,5 @@ fwrite($myfile, $text);
 fclose($myfile);
 ?>
 <?php
-// !! CODED BY BIBEK SHRESTHA
+// !! CODED BY SUMAN RANABHAT
 ?>
