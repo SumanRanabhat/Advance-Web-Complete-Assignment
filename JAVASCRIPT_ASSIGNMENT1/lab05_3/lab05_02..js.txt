@@ -105,4 +105,4 @@ function isEmail(str) {
 reset.addEventListener("click", () => {
   myform.reset();
 });
-// ! coded by BIBEK SHRESTHA
+// ! coded by SUMAN RANABHAT
