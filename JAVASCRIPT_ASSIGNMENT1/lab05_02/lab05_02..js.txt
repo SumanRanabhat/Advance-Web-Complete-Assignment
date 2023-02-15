@@ -63,4 +63,4 @@ function isNumber(str) {
 function minutes(minutes) {
   return minutes;
 }
-// !!coded by BIBEK SHRESTHA
+// !!coded by SUMAN RANABHAT
