@@ -41,5 +41,5 @@ if ($results = mysqli_query($con, $sql)) {
 mysqli_close($con);
 ?>
 <?php
-// !! CODED BY BIBEK SHRESTHA
+// !! CODED BY SUMAN RANABHAT
 ?>
