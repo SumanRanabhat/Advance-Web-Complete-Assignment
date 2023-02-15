@@ -20,4 +20,4 @@
     <script src="./lab05_02.js"></script>
 </body>
 </html>
-<!-- ! coded by BIBEK SHRESTHA ! -->
+<!-- ! coded by SUMAN RANABHAT ! -->
