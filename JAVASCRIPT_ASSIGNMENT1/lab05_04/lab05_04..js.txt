@@ -25,4 +25,4 @@ discount.addEventListener("keyup", () => {
     discountTotal.innerHTML = `<span style=color:red>Error</span>`;
   }
 });
-// !  !! coded by BIBEK SHRESTHA https://bibekshrestha.info.np/
+// !  !! coded by SUMAN RANABHAThttps://suman ranabhat.info.np/
